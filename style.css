@@ -2,5 +2,9 @@
     font-family: "Roboto";
 }
 body {
-    background-color: coral;
+    background-color: rgb(245, 166, 137);
+}
+img {
+    width: 400px;
+    height: 200px;
 }
